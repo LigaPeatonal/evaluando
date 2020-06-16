@@ -5,6 +5,6 @@
 Fig.1. Esquema de trabajo 
 </p>
 
-En la barra lateral se describen las principales problemáticas que han sido identificadas, con [Project Sidewalk](https://github.com/ProjectSidewalk), de las banquetas y las rampas peatatonales de [Azcapotzlaco, CDMX](https://sidewalk-cdmx.cs.washington.edu/) y [SPGG, N.L.](https://sidewalk-spgg.cs.washington.edu/):point_right:
+En la barra lateral se describen las principales problemáticas que han sido identificadas, con [Project Sidewalk](https://github.com/ProjectSidewalk), de las banquetas y las rampas peatatonales de [Azcapotzlaco, CDMX](https://sidewalk-cdmx.cs.washington.edu/) y [SPGG, N.L.](https://sidewalk-spgg.cs.washington.edu/)
 <br><br>
 El proyecto está abierto a colaboradoras y colaboradores :fist:
