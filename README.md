@@ -1,6 +1,6 @@
 # EvaluAndo
 <p align="center">
-<img src="https://user-images.githubusercontent.com/50057640/84028490-1bcd1a80-a991-11ea-8b3d-2dce01eb73b6.jpg" height="300">
+<img src="https://user-images.githubusercontent.com/50057640/84028490-1bcd1a80-a991-11ea-8b3d-2dce01eb73b6.jpg" height="250">
 <br>
 Fig.1. Esquema de trabajo 
 </p>
